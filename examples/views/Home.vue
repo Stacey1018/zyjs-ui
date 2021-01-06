@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
     <xr-test></xr-test>
+    <zy-button></zy-button>
   </div>
 </template>
 

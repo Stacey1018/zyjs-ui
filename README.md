@@ -55,4 +55,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
  ```
   * npm run lib 生成包目录
+
+### 开始封装组件
+   * button
+      * 主要是学习了封装方法，其他样式的控制没有写，很简单，已经理解了
+      * 疑惑：目前不知道组件样式是怎么写的
   
