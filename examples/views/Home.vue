@@ -9,6 +9,8 @@
         这是内容
       </div>
     </zy-dialog>
+    <br />
+    <zy-input></zy-input>
   </div>
 </template>
 

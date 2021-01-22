@@ -2,8 +2,9 @@ import XrTest from "./test";
 import ZyButton from "./button";
 import ZyLink from "./link";
 import ZyDialog from "./dialog";
+import ZyInput from "./input";
 // 所有组件列表
-const components = [XrTest, ZyButton, ZyLink, ZyDialog];
+const components = [XrTest, ZyButton, ZyLink, ZyDialog, ZyInput];
 // 定义 install 方法，接收 Vue 作为参数
 const install = function(Vue) {
   // 判断是否安装，安装过就不继续往下执行
